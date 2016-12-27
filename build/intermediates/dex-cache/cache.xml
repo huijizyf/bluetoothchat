@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/7.0.1/d5d13ea991eab0252e3710e5df3d6a9d4b21d461/butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-7.0.1_3d00b4636d470ab0cb4aafbe809eeca0d639d0c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.1_cf3d15ca15a2c4da132815657d9efb91c7f7ca5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.1_3eaf4ec2320e287bea4570b155c299d9a9895923/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_49f1f6d131ff92f0c6d2b0b49ce32cde3e3636b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="325c0d07530ba9ee6d81717db5e1250281cfd450">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_756c12ffad61221d9d2e484a6b0d36f9ce1d19cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_56dc59fa5a9d3cfe3e5d1cd80ea78e7340a20b10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.1_63fc07e0fa1582dde91013c92b7633df25fd3cd8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_8d5c6ad34cb1e9b261d4c946197920101a0f60e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fa26ccc279b6ecb847b2df0e95cc642639847c49">
+        <dex dex="/Users/zhouyufei/AndroidStudioProjects/bluetoothchat/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_29957db726370ee1caf6db277ee2891abd86e1e3/classes.dex" />
+    </item>
+
+</items>
